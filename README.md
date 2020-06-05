@@ -1,7 +1,10 @@
 # real-world-nuxt
 
 > My training Nuxt.js project by Vue Mastery
+
 course https://www.vuemastery.com/
+
+<img src="readmeImg.JPG">
 
 ## Project features
 
