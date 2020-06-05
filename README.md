@@ -7,6 +7,7 @@
 
 ## Project features
 
+- Navigation menu
 - Fetching events from json-server
 - Event reading
 - Nuxt runs in development mode (universal)
