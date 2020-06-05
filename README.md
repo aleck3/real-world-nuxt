@@ -1,22 +1,11 @@
 # real-world-nuxt
 
-> My scrumtrulescent Nuxt.js project
+> My training Nuxt.js project by Vue Mastery
+course https://www.vuemastery.com/
 
-## Build Setup
+## Project features
 
-```bash
-# install dependencies
-$ npm install
+- Fetching events from json-server
+- Creating events and saving to json-server
 
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+*Vuex was applied for reading and writing events.*
