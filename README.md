@@ -3,7 +3,7 @@
 > My training Nuxt.js project by Vue Mastery 
 > course https://www.vuemastery.com/
 
-<img src="readmeImg.JPG">
+<img src="readmeImg.jpg">
 
 ## Project features
 
